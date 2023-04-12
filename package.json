@@ -1,0 +1,25 @@
+{
+  "name": "jaylenozi-v13-guard",
+  "version": "1.0.0",
+  "description": "discord.js v13 guard ozi",
+  "main": "ozi.js",
+  "scripts": {
+    "start": "nodemon ozi.js"
+  },
+  "author": "Jaylen#1404",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.8.0",
+    "discord-api-types": "^0.25.0",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.8",
+    "request": "^2.88.2",
+    "table": "^6.8.0"
+  },
+  "keywords": []
+}
